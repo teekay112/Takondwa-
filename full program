@@ -598,6 +598,7 @@ def main():
                 st_name_entry.place(x=1250, y=200)
 
             def add_visitor():
+
                 vn = str(v_name_entry.get())
                 vcon = str(v_contact_entry.get())
                 vr = str(v_reason_entry.get())
